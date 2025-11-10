@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TOP 5 JUEGOS</title>
+    <link rel="icon" href="https://example.com/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+    <div>
+        <h1>Top 5 juegos</h1>
+        <h2>ESTOS SON LOS 5 MEJORES JUEGOS</h2>
+        <p>Para mi</p>
+    </div>
+    <div>
+        <ol reversed>
+            <li>
+                <div>
+                    <h3>Spore</h3>
+                    <p>Un juego de simulación de vida donde los jugadores pueden crear y evolucionar su propia especie
+                        desde una célula hasta una civilización.</p>
+                    <img src="img/Spore.jpg" alt="Spore" width="200" height="300" />
+                </div>
+            </li>
+            <li>
+                <div>
+                    <h3>Dragon Ball Xenoverse 2</h3>
+                    <p>Un juego de rol y lucha basado en el popular manga Dragon Ball, donde los jugadores pueden crear
+                        su propio personaje y participar en batallas épicas.</p>
+                    <img src="img/Dragon.jpg" alt="Dragon Ball Xenoverse 2" width="500" />
+                </div>
+            </li>
+            <li>
+                <div>
+                    <h3>Cuphead</h3>
+                    <p>Un juego de plataformas con un estilo artístico inspirado en los dibujos animados de
+                        la década de 1930.</p>
+                    <img src="img/Cuphead.jpg" alt="Cuphead" width="200"/>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <h3>Sekiro: Shadows Die Twice</h3>
+                    <p>Un juego de acción y aventura desarrollado por FromSoftware, conocido por su dificultad y su
+                        narrativa profunda.</p>
+                    <img src="img/Sekiro.jpg" alt="Sekiro: Shadows Die Twice" width="200"/>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <h3>eFootball</h3>
+                    <p>Un juego de fútbol desarrollado por Konami, conocido por su jugabilidad realista y sus gráficos
+                        impresionantes.</p>
+                    <img src="img/eFootball.jpg" alt="eFootball" width="200" />
+                </div>
+            </li>
+        </ol>
+    </div>
+</body>
+
+</html>
